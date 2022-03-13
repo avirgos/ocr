@@ -33,13 +33,13 @@ A confusion matrix is used to group together all the digit __recognition results
 Thus, if the expected digit is the same as the recognised digit then the recognition worked.  
 The number of __correct results__ can therefore be seen on the __diagonal__ shown below. 
 
-![diagonal-confusion-matrix]()
+![diagonal-confusion-matrix](/img/diagonal-confusion-matrix.png)
 
 ______________________________________
 
 # Final result
 
-![final-confusion-matrix-with-result]()
+![final-confusion-matrix-with-result](/img/final-confusion-matrix-with-result.png)
 
 After simplifying the images and applying our processing chain, we obtain a __recognition rate__ of __89%__ on 100 images corresponding to numbers from 0 to 9.
 
